@@ -1,0 +1,14 @@
+C:\Users\aplas\Desktop\CustomThreadPool\bin\Debug\netcoreapp3.1\CustomThreadPool.exe
+C:\Users\aplas\Desktop\CustomThreadPool\bin\Debug\netcoreapp3.1\CustomThreadPool.deps.json
+C:\Users\aplas\Desktop\CustomThreadPool\bin\Debug\netcoreapp3.1\CustomThreadPool.runtimeconfig.json
+C:\Users\aplas\Desktop\CustomThreadPool\bin\Debug\netcoreapp3.1\CustomThreadPool.runtimeconfig.dev.json
+C:\Users\aplas\Desktop\CustomThreadPool\bin\Debug\netcoreapp3.1\CustomThreadPool.dll
+C:\Users\aplas\Desktop\CustomThreadPool\bin\Debug\netcoreapp3.1\CustomThreadPool.pdb
+C:\Users\aplas\Desktop\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.csproj.AssemblyReference.cache
+C:\Users\aplas\Desktop\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aplas\Desktop\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.AssemblyInfoInputs.cache
+C:\Users\aplas\Desktop\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.AssemblyInfo.cs
+C:\Users\aplas\Desktop\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\aplas\Desktop\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.dll
+C:\Users\aplas\Desktop\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.pdb
+C:\Users\aplas\Desktop\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.genruntimeconfig.cache
